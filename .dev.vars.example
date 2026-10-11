@@ -1,0 +1,2 @@
+# Local development only; copy this file to .dev.vars.
+SITE_PRIVATE_ADMIN_BOOTSTRAP="true"
